@@ -1,0 +1,150 @@
+#n1
+{
+height:63px;
+}  
+  .carousel-inner img {
+    width: 100%;
+height:500PX;
+
+body {
+margin:0;
+padding:0;
+width:100%
+}
+  
+  }
+#demo {
+width: 100%;
+}
+
+#marker {
+background-color:black;
+font-size:43px;
+width:100%;
+height:53px;
+font-family: fantasy;
+color:rgb(154,205,50);
+padding:2px;
+
+
+}
+
+#head {
+margin:10px;
+padding:20px;
+font-family:sanserif;
+}
+
+#box {
+max-width:350px;
+height:400px;
+flooat:left;
+margin:40px;
+
+border: 1px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+
+}
+
+
+
+.sec {
+background-color:rgb(154,205,50);
+width:100%;
+height:500px;
+}
+
+
+
+
+.abt {
+width:100%;
+height:250px;
+
+}
+ 
+
+
+
+.txt {
+position:absolute;
+ top: 150px;
+            left: 550px;
+color:#000066;
+
+
+}
+
+
+#boxx{
+max-width:450px;
+height:300px;
+margin:60px;
+padding-right:45px;
+
+border: 1px solid #BFBFBF;
+  background-color: white;
+ 
+box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+
+}
+
+#i {
+max-width:450px;
+height:300px; 
+}
+
+
+
+#boxy {
+max-width:790px;
+height:400px;
+margin:85px;
+
+
+
+border: 1px solid #BFBFBF;
+  background-color: white;
+ 
+box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+
+}
+
+
+.form-control {
+
+max-width:345px;
+margin:30px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
